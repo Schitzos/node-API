@@ -1,4 +1,4 @@
-This Script is make using Node.js
+This Script is make using Node.js and Mysql 
 
 How to use.
 0. Open you cmd
