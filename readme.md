@@ -16,3 +16,7 @@ list of finished API
 1. Create, read, update, delete User
 2. Create, read, update, delete Role
 3. Create, read, update, delete Shift
+
+For uml located at UML_SCHEDULED.JPG
+
+Cheers,
